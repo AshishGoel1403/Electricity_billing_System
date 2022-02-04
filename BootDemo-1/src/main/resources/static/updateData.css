@@ -1,0 +1,23 @@
+body{
+ background-color: lightpink;
+}
+.input-box{
+ text-align: center;
+ 
+}
+.gender-details{
+ text-align: center;
+}
+
+*{
+ padding: 5px;
+}
+.details,.gender{
+ font-weight: bold;
+}
+h2{
+ color: maroon;
+}
+.btn{
+ background-color: mediumaquamarine;
+}
